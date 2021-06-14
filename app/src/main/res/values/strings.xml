@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string-array name="generos">
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Indefinido</item>
+    </string-array>
+</resources>
